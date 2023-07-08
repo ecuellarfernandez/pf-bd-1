@@ -1,0 +1,15 @@
+
+g	java:S112#"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ8±Â“¾’1
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Üúœÿùÿÿÿÿ8ö”¾’1
+E
+java:S1604"(Make this anonymous inner class a lambda(«‚øŞ8ú”¾’1
+J
+java:S1604)"(Make this anonymous inner class a lambda(˜Ã²ïùÿÿÿÿ8ú”¾’1
+Q
+java:S1948"4Make "categoriaCrimenDao" transient or serializable.(È¦£Í8‰•¾’1
+S
+java:S1948"1Make "categoriaCrimen" transient or serializable.(ïÀëúÿÿÿÿ8‰•¾’1
+“
+java:S1130"qRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from constructor's body.(Üúœÿùÿÿÿÿ8Œ•¾’1
+R
+java:S1481"5Remove this unused "labelIdCategoria" local variable.(§®”å8·Ş˜¾’1

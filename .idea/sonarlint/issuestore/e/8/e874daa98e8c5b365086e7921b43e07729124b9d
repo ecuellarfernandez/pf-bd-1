@@ -1,0 +1,11 @@
+
+`	java:S112^"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112e"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+>
+java:S1604"(Make this anonymous inner class a lambda(«‚øŞ
+C
+java:S1604#"(Make this anonymous inner class a lambda(˜Ã²ïùÿÿÿÿ
+@
+java:S1948"*Make "rangoDao" transient or serializable.(—ı»ò
+B
+java:S1948"'Make "rango" transient or serializable.(Âêú›ıÿÿÿÿ

@@ -1,0 +1,16 @@
+
+g	java:S1120"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ8ÔÃó¾’1
+Q
+java:S3740"/Provide the parametrized type for this generic.(ğçÚğøÿÿÿÿ8ÕÃó¾’1
+E
+java:S1604*"(Make this anonymous inner class a lambda(«‚øŞ8×Ãó¾’1
+J
+java:S16046"(Make this anonymous inner class a lambda(˜Ã²ïùÿÿÿÿ8×Ãó¾’1
+m
+java:S1301x"KReplace this "switch" statement by "if" statements to increase readability.(Ú¥Öşÿÿÿÿ8×Ãó¾’1
+G
+java:S1948"+Make "crimenDao" transient or serializable.(ÍØµ$8ìÃó¾’1
+Q
+java:S1948"4Make "categoriaCrimenDao" transient or serializable.(È¦£Í8ìÃó¾’1
+E
+java:S1948"(Make "crimen" transient or serializable.(œĞ£’8ìÃó¾’1

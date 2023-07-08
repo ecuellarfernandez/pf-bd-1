@@ -1,0 +1,23 @@
+
+`	java:S112B"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ
+>
+java:S1604<"(Make this anonymous inner class a lambda(«‚øŞ
+C
+java:S1604H"(Make this anonymous inner class a lambda(˜Ã²ïùÿÿÿÿ
+F
+java:S1948"+Make "agenteDao" transient or serializable.(šœ€üÿÿÿÿ
+>
+java:S1948"(Make "agente" transient or serializable.(™œÊ
+L
+java:S1948""1Make "departamentoDao" transient or serializable.(ó¶Å¿ûÿÿÿÿ
+@
+java:S1948#"*Make "rangoDao" transient or serializable.(—ı»ò
+A
+java:S1948$"+Make "equipoDao" transient or serializable.(„‡º²
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(Éã­¢ÿÿÿÿÿ
+=	java:S131Ÿ""Add a default case to this switch.(Ú¥Öşÿÿÿÿ
+V	java:S106À"9Replace this use of System.out or System.err by a logger.(Åèá 8„°Í’1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ü·œÍ’1
+J
+java:S1068"/Remove this unused "textFieldCi" private field.(ô÷ƒ‚üÿÿÿÿ

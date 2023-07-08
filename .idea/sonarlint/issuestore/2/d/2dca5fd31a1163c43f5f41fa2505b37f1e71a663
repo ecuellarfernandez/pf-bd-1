@@ -1,0 +1,9 @@
+
+g	java:S112!"FDefine and throw a dedicated exception instead of using a generic one.(ªìîŸøÿÿÿÿ8œ°ÁÍ’1
+g	java:S1127"FDefine and throw a dedicated exception instead of using a generic one.(ÑÅÄéÿÿÿÿÿ8°ÁÍ’1
+g	java:S112H"FDefine and throw a dedicated exception instead of using a generic one.(›ÜàÅøÿÿÿÿ8Ÿ°ÁÍ’1
+b	java:S112]"FDefine and throw a dedicated exception instead of using a generic one.(îÀöÕ8 °ÁÍ’1
+g	java:S112y"FDefine and throw a dedicated exception instead of using a generic one.(Ô· ›üÿÿÿÿ8¢°ÁÍ’1
+e
+java:S3252"HUse static access with "java.sql.Statement" for "RETURN_GENERATED_KEYS".(¡‘Ë8Ğ°ÁÍ’1
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(çÑƒøÿÿÿÿ8Ö°ÁÍ’1
